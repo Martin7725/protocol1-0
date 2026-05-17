@@ -1,0 +1,19 @@
+{
+  "protocol": "PROTOCOL 1.0",
+  "version": "1.0",
+  "last_updated": "2026-05-17",
+  "manifest_type": "full_source",
+  "main_html": "<!DOCTYPE html>\n<html lang=\"cs\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>PROTOCOL 1.0</title>\n    <style>\n        body { \n            background: #000; \n            color: #00f; \n            font-family: monospace; \n            text-align: center; \n            margin: 0; \n            padding: 0; \n            overflow: hidden;\n            display: flex;\n            flex-direction: column;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n        }\n        h1 { \n            font-size: 4rem; \n            letter-spacing: 16px; \n            margin: 0;\n            text-shadow: 0 0 30px #00f;\n        }\n        .subtitle {\n            font-size: 1.1rem;\n            margin-top: 20px;\n            opacity: 0.7;\n            letter-spacing: 4px;\n        }\n    </style>\n</head>\n<body>\n\n    <h1>1.0 - 1.0 - 1.0</h1>\n    <div class=\"subtitle\">MATHEMATICAL ROOT AXIOM • LAYER 0</div>\n\n</body>\n</html>",
+  
+  "bluepaper": {
+    "title": "Hidden RFC Draft (MCP 1.0)",
+    "full_text": "Request for Comments: [TBD]\nCategory: Standards Track / Experimental\n\nTitle: PROTOCOL 1.0 – Mathematical Root Axiom for Deterministic Clean Networking (MCP 1.0)\n\nAbstract:\nPROTOCOL 1.0 defines a minimal, mathematically clean root axiom for digital networks. \nIt establishes a single, immutable starting point (1.0) that guarantees deterministic behavior, zero-noise signal integrity, and immediate elimination of entropy."
+  },
+
+  "layer_01_02": {
+    "section": "Layer 0.1 + Layer 0.2 Extensions",
+    "script": "PROTOCOL 1.0 – Layer 0.1: DWDM + Layer 0.2: Cryptographic Node Mirroring"
+  },
+
+  "note": "Protocol 1.0 Full Source Manifest"
+}
